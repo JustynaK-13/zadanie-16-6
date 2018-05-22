@@ -1,12 +1,10 @@
 {
-  "name": "zadanie-16-4",
+  "name": "zadanie-16-6",
   "version": "1.0.0",
-  "description": "",
   "main": "webpack.config.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "webpack",
-    "build": "webpack --env production"
+    "start": "webpack"
   },
   "author": "",
   "license": "ISC",
@@ -25,5 +23,6 @@
   },
   "dependencies": {
     "uuid": "^3.2.1"
-  }
+  },
+  "description": ""
 }
